@@ -16,5 +16,10 @@ let nomeVinho = prompt("Qual o nome do vinho?");
 let tipoVinho = prompt("Qual o tipo do vinho?(Tinto, Branco, Rosé)\n");
 let ano = prompt("Qual a Safra(ano) do vinho?");
 let quantidadeEstoque = prompt("Qual a quantidade no estoque?");
-
-
+if (quantidadeEstoque < 5) {
+    alert("Verifique no console como está o estoque")
+    console.log("ESTOQUE BAIXO!")
+}
+else {
+    alert("")
+}
