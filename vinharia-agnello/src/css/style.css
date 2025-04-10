@@ -18,3 +18,25 @@ body{
     margin: 0 auto; 
     display: 2;
 }    
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+    }
+.imga{
+    border-radius: 30px;
+    position: absolute;
+    left: 80px;
+    top: 160px;
+}
+h2{
+    font-size: 40px; 
+    max-width: 600px; 
+    max-height: 20px; 
+    line-height: 1.2;
+    top: 150px;
+    right: 60px;
+    position: absolute;
+}

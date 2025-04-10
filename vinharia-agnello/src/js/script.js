@@ -33,4 +33,3 @@ if (ano >= 2020) {
     alert("Vinho antigo");
     console.log("Vinho antigo");
 }
-
