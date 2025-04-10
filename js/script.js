@@ -10,5 +10,11 @@ if (usuario == ""){
     alert("A sua senha foi cadastrada!");
 }
 alert("Cadastro realizado! Veja os detalhes no console.");
-console.log(usuario)
-console.log(senha)
+console.log(usuario);
+console.log(senha);
+let nomeVinho = prompt("Qual o nome do vinho?");
+let tipoVinho = prompt("Qual o tipo do vinho?(Tinto, Branco, Rosé)\n");
+let ano = prompt("Qual a Safra(ano) do vinho?");
+let quantidadeEstoque = prompt("Qual a quantidade no estoque?");
+
+
