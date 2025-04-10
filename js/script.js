@@ -10,3 +10,5 @@ if (usuario == ""){
     alert("A sua senha foi cadastrada!");
 }
 alert("Cadastro realizado! Veja os detalhes no console.");
+console.log(usuario)
+console.log(senha)
