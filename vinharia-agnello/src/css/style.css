@@ -1,0 +1,20 @@
+
+body{
+    background-color: rgb(250, 225, 229) ;
+    margin: 0;
+}
+
+.cabecalho {
+    background-color: white; /* Cor branca para o cabeçalho */
+    padding: 20px 0; /* Espaçamento interno no cabeçalho */
+    text-align: center; /* Centraliza o conteúdo no cabeçalho */
+    width: 100%; /* Garante que o cabeçalho ocupe toda a largura */
+    height: 45px;
+    display: 2;
+}
+
+.container {
+    width: 100%; 
+    margin: 0 auto; 
+    display: 2;
+}    
