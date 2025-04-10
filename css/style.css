@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(250, 225, 229) ;
+    margin: 0;
+}
+
+.cabecalho {
+    background-color: white; /* Cor branca para o cabeçalho */
+    padding: 20px 0; /* Espaçamento interno no cabeçalho */
+    text-align: center; /* Centraliza o conteúdo no cabeçalho */
+    width: 100%; /* Garante que o cabeçalho ocupe toda a largura */
+    height: 45px;
+    display: 2;
+}
+
+.container {
+    width: 100%; 
+    margin: 0 auto; 
+    display: 2;
+}    
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+    }
+.imga{
+    border-radius: 30px;
+    position: absolute;
+    left: 80px;
+    top: 160px;
+}
+h2{
+    font-size: 40px; 
+    max-width: 600px; 
+    max-height: 20px; 
+    line-height: 1.2;
+    top: 150px;
+    right: 60px;
+    position: absolute;
+}
